@@ -3,3 +3,4 @@
 *.prabhanjan
 *.durga
 .settings/
+.target/
